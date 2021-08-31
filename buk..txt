@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>BULLS INTERIOR</title>
+	<link rel="stylesheet" type="text/css" href="design.css">
+</head>
+<body>
+	<div class="banner">
+		<div class="navbar">
+			<img src="baff.png" class="logo">
+			<ul>
+				<li><a href="#">home</a></li>
+				<li><a href="#">bedroom</a></li>
+				<li><a href="#">dining</a></li>
+				<li><a href="#">kitchen</a></li>
+				<li><a href="#">backyard</a></li>
+			</ul>
+        	</div>
+
+        	<div class="content">
+            	<h1>BULL INTERIOR DESIGN </h1>
+	            <p>You Give Us a Chance</p>
+
+	            <div>
+	            	<button type="button">SUBMIT</button>
+	            </div>
+           </div>
+
+   </div>
+   </body>
+   </html>
